@@ -1,7 +1,8 @@
 PROJECT CONTEXT — Magali Cunha Advocacia Landing Page
 
 Client: Magali Cunha — Advogada com 25 anos de experiência
-Stack: React + Tailwind CSS (ou styled-components, se preferir)
+Stack: React + 
+Tailwind CSS (ou styled-components, se preferir)
 Goal: Recreate a professional lawyer landing page with exact fidelity to the provided design references.
 
 COLOR PALETTE:
