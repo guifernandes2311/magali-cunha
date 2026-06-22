@@ -4,6 +4,7 @@ const SECTIONS = [
   { id: 'hero', label: 'Início' },
   { id: 'areas', label: 'Áreas' },
   { id: 'about', label: 'Sobre' },
+  { id: 'reviews', label: 'Avaliações' },
 ];
 
 export default function SectionNav() {

@@ -38,6 +38,7 @@ const NAV_LINKS = [
   { label: 'Home', href: '#hero' },
   { label: 'Áreas', href: '#areas' },
   { label: 'Sobre', href: '#about' },
+  { label: 'Avaliações', href: '#reviews' },
 ];
 
 const AREAS = [
