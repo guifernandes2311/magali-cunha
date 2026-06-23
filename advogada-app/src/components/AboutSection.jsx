@@ -49,7 +49,7 @@ export default function AboutSection({
             <div className="w-20 border-t border-[rgba(201,160,96,0.4)] mb-3" />
             {/* OAB credential */}
             <p className="font-lato text-[12px] tracking-widest uppercase text-[#C9A060] opacity-80">
-              Dra. Magali Cunha &nbsp;|&nbsp; OAB/MG 00000
+              Dra. Magali Cunha &nbsp;|&nbsp; OAB/MG: 81.727
             </p>
           </div>
 

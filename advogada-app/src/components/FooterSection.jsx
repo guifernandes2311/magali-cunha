@@ -77,9 +77,11 @@ export default function FooterSection() {
             </div>
           </a>
 
-          {/* E-mail */}
+          {/* Site */}
           <a
-            href="mailto:magalicunha@terra.com.br"
+            href="https://magalicunhaadvogada.com.br/"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-5 px-8 py-7 hover:bg-[rgba(201,160,96,0.05)] transition-colors"
           >
             <div className="flex-shrink-0 w-12 h-12 rounded-full border border-[rgba(201,160,96,0.4)] flex items-center justify-center">
@@ -87,9 +89,9 @@ export default function FooterSection() {
             </div>
             <div>
               <p className="font-lato text-[11px] tracking-[0.15em] uppercase text-[#C9A060] font-semibold mb-0.5">
-                Envie-nos uma mensagem!
+                Consulte nosso site
               </p>
-              <p className="font-playfair text-[#F0EAD6] text-[17px]">magalicunha@terra.com.br</p>
+              <p className="font-playfair text-[#F0EAD6] text-[17px]">magalicunhaadvogada.com.br</p>
               <p className="font-lato text-[13px] text-[rgba(240,234,214,0.55)] mt-0.5">
                 Magali Cunha - Advogada
               </p>

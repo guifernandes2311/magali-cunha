@@ -36,7 +36,7 @@ const AREAS = [
     subtitle: 'DIREITO DE',
     title: 'FAMÍLIA',
     description:
-      'Divórcio, pensão alimentícia, regulamentação de visitas e guarda — acompanho seu caso com cuidado e firmeza.',
+      'Divórcio, guarda, pensão alimentícia e regulamentação de visitas — conduzo seu caso com sensibilidade, segurança e firmeza.',
   },
   {
     icon: HouseIcon,
