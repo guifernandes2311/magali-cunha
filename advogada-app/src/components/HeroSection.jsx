@@ -11,10 +11,16 @@ export default function HeroSection({
       {/* LEFT COLUMN — name/title | mobile: order 2 (after photo) */}
       <div className="order-2 md:order-none flex items-center justify-center p-8 md:p-12 md:border-r md:border-[rgba(201,160,96,0.2)] md:min-h-screen">
         <div className="flex flex-col items-start">
-          <h1 className="font-playfair font-bold text-[#C9A060] text-3xl md:text-[36px] leading-tight tracking-wide uppercase">
-            MAGALI CUNHA
-            <br />
-            ADVOCACIA
+          <h1 className="font-playfair font-bold text-[#C9A060] leading-tight tracking-wide">
+            <span className="block text-xl md:text-2xl font-normal">
+              Advogada em Araxá
+            </span>
+            <span className="block text-3xl md:text-[36px] mt-2 uppercase tracking-wide">
+              Magali Cunha
+            </span>
+            <span className="block text-base md:text-lg mt-3 font-normal tracking-normal">
+              Familia . Sucessões . Imobiliário e Bancário
+            </span>
           </h1>
           <div
             className="mt-4 border-t-2 border-[#C9A060]"
