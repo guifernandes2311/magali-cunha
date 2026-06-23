@@ -15,6 +15,7 @@ COLOR PALETTE:
 
 
 
+
 TYPOGRAPHY:
 - Headings: 'Playfair Display' or 'Cormorant Garamond' (Google Fonts) — elegant serif
 - Body: 'Lato' or 'Open Sans' — clean sans-serif
