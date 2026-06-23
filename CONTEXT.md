@@ -13,6 +13,8 @@ COLOR PALETTE:
 - Off-white text: #F0EAD6
 - Border gold (thin): rgba(201,160,96,0.5)
 
+
+
 TYPOGRAPHY:
 - Headings: 'Playfair Display' or 'Cormorant Garamond' (Google Fonts) — elegant serif
 - Body: 'Lato' or 'Open Sans' — clean sans-serif
