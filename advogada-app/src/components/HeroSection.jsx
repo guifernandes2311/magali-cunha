@@ -41,11 +41,7 @@ export default function HeroSection({
           </h2>
           <div className="border-t border-[rgba(201,160,96,0.4)] w-12" />
           <p className="font-lato text-[#F0EAD6] text-[15px] md:text-[16px] font-light italic leading-relaxed">
-            Inventário, separação ou imóvel?
-            <br />
-            Resolvo o seu caso com
-            <br />
-            experiência e segurança.
+            cuidando da sua família e do seu patrimônio.
           </p>
           <a
             href={WHATSAPP_URL}
@@ -53,7 +49,7 @@ export default function HeroSection({
             rel="noopener noreferrer"
             className="mt-2 inline-block font-lato text-[13px] tracking-wider uppercase px-6 py-3 bg-[#C9A060] text-[#2C2C2C] font-semibold rounded hover:bg-[#A87D30] transition-colors duration-200"
           >
-            Agendar consulta
+            Falar no WhatsApp
           </a>
         </div>
       </div>

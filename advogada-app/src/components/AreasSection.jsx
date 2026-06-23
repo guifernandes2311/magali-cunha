@@ -29,21 +29,21 @@ const AREAS = [
     subtitle: 'DIREITO DAS',
     title: 'SUCESSÕES',
     description:
-      'Inventário parado, testamento contestado ou planejamento de herança — resolvo com segurança e agilidade.',
+      'Inventários, testamentos, alvarás, planejamento sucessório — resolvo com segurança e agilidade.',
   },
   {
     icon: PeopleIcon,
     subtitle: 'DIREITO DE',
     title: 'FAMÍLIA',
     description:
-      'Divórcio, pensão alimentícia ou guarda de filhos — acompanho seu caso com cuidado e firmeza.',
+      'Divórcio, pensão alimentícia, regulamentação de visitas e guarda — acompanho seu caso com cuidado e firmeza.',
   },
   {
     icon: HouseIcon,
     subtitle: 'DIREITO',
     title: 'IMOBILIÁRIO',
     description:
-      'Compra, venda ou regularização de imóvel — protejo seu patrimônio em cada etapa da negociação.',
+      'Compra, venda, litígios condominiais e regularização de imóveis — protejo seu patrimônio em cada etapa da negociação.',
   },
   {
     icon: BankIcon,

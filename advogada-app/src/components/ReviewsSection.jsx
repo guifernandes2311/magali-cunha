@@ -26,6 +26,24 @@ const REVIEWS = [
     author: 'Grazielle Fernandes',
     rating: 5,
   },
+  {
+    id: 5,
+    text: 'Gostaria de registrar meu agradecimento à Dra. Magali Cunha pelo suporte jurídico prestado, que foi essencial para a condução e resolução de questões na área cível. Sua competência e profissionalismo fizeram toda a diferença ao longo do processo.',
+    author: 'Jonathan de Paula',
+    rating: 5,
+  },
+  {
+    id: 6,
+    text: 'Profissional séria e competente.',
+    author: 'Sidnei Milanez',
+    rating: 5,
+  },
+  {
+    id: 7,
+    text: 'Desenrolou o inventário da minha família com maestria!!! Super recomendo!',
+    author: 'Luciana Fidelis',
+    rating: 5,
+  },
 ];
 
 const AUTOPLAY_MS = 6000;
