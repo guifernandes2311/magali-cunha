@@ -1,3 +1,4 @@
+import { trackWhatsAppConversion } from '../lib/gtag';
 import TreeIcon from './icons/TreeIcon';
 import PeopleIcon from './icons/PeopleIcon';
 import HouseIcon from './icons/HouseIcon';
@@ -103,6 +104,7 @@ export default function AreasSection() {
           </p>
           <a
             href={WHATSAPP_URL}
+            onClick={trackWhatsAppConversion}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 font-lato text-[13px] tracking-wider uppercase px-8 py-3.5 bg-[#C9A060] text-[#2C2C2C] font-semibold rounded hover:bg-[#A87D30] transition-colors duration-200"

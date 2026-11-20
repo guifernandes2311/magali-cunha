@@ -1,3 +1,4 @@
+import { trackWhatsAppConversion } from '../lib/gtag';
 import WhatsAppIcon from './icons/WhatsAppIcon';
 
 const WHATSAPP_URL =
@@ -8,6 +9,7 @@ export default function WhatsAppButton() {
     <div className="fixed bottom-5 right-5 md:bottom-6 md:right-6 z-50">
       <a
         href={WHATSAPP_URL}
+        onClick={trackWhatsAppConversion}
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Fale conosco no WhatsApp"

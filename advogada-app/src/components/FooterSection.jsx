@@ -1,3 +1,5 @@
+import { trackWhatsAppConversion } from '../lib/gtag';
+
 const WHATSAPP_URL =
   'https://wa.me/5534999865518?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20consulta.';
 
@@ -186,6 +188,7 @@ export default function FooterSection() {
             </p>
             <a
               href={WHATSAPP_URL}
+              onClick={trackWhatsAppConversion}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-5 font-lato text-[11px] tracking-widest uppercase px-5 py-2.5 border border-[rgba(201,160,96,0.5)] text-[#C9A060] rounded hover:bg-[rgba(201,160,96,0.1)] transition-colors duration-200"

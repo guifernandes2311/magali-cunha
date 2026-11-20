@@ -1,3 +1,4 @@
+import { trackWhatsAppConversion } from '../lib/gtag';
 import ScalesIcon from './icons/ScalesIcon';
 
 const WHATSAPP_URL =
@@ -51,6 +52,7 @@ export default function HeroSection({
           </p>
           <a
             href={WHATSAPP_URL}
+            onClick={trackWhatsAppConversion}
             target="_blank"
             rel="noopener noreferrer"
             className="mt-2 inline-block font-lato text-[13px] tracking-wider uppercase px-6 py-3 bg-[#C9A060] text-[#2C2C2C] font-semibold rounded hover:bg-[#A87D30] transition-colors duration-200"
